@@ -1,2 +1,4 @@
 print ("hello world")
-print ("sup")
+
+for i in range(5):
+    print("hello world")
